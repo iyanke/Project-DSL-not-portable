@@ -8,6 +8,7 @@ object ProjectDslNotPortable_HttpsGithubComIyankeProjectDslNotPortable : GitVcsR
     name = "https://github.com/iyanke/Project-DSL-not-portable"
     url = "https://github.com/iyanke/Project-DSL-not-portable"
     branch = "refs/heads/main"
+    branchSpec = "y"
     authMethod = password {
         userName = "iyanke"
         password = "zxx44d98d23331fedc49226423a85137700"
